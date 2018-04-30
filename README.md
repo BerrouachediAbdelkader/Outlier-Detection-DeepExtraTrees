@@ -3,17 +3,19 @@
 # Datasets used in the literature
   
 Name	    Instances	  Outliers	Attributes
-ALOI	     50,000	    1508	    27
 
-PenDigits	  9,868	      20	    16
+ALOI	     50,000	       1508	      27
 
-Shuttle	    1,013	      13	    9
+PenDigits	  9,868	         20	      16
+
+Shuttle	       1,013	      13	    9
 
 Waveform	    3,443	    100	    21
 
 # Semantically meaningful datasets
 
 Name	          Instances 	Outliers	Attributes
+
 Annthyroid	      7,200	      534     	21
 
 Cardiotocography	2,126	      471   	  21
