@@ -4,6 +4,7 @@
   
 #  Name	    Instances	  Outliers	Attributes
 ALOI	     50,000	    1508	    27
+
 PenDigits	  9,868	      20	    16
 Shuttle	    1,013	      13	    9
 Waveform	    3,443	    100	    21
